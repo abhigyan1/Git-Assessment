@@ -101,6 +101,12 @@
 				<artifactId>org.apache.servicemix.bundles.solr-solrj</artifactId>
 				<version>5.4.1_1</version>
 			</dependency>
+			<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
+            <dependency>
+                <groupId>org.apache.commons</groupId>
+                <artifactId>commons-lang3</artifactId>
+                <version>3.0</version>
+            </dependency>
 
         </dependencies>
     </dependencyManagement>
